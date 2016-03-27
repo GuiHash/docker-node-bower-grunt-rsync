@@ -7,4 +7,4 @@ This repository contains a **Dockerfile** of [Node.js](http://nodejs.org/) w/ [B
 * [digitallyseamless/nodejs-bower-grunt](https://hub.docker.com/r/digitallyseamless/nodejs-bower-grunt/)
 
 
-I just add _rsync_ command to this build
+I just add missing _rsync_ command to this build
